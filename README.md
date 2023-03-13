@@ -1,3 +1,7 @@
+## Initial Start
+
+Make sure to run `npm i` in the directory before running `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
